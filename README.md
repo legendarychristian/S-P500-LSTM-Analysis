@@ -27,4 +27,4 @@ Train the model.
 Evaluate the model's error and tweak the parameters to make the best model possible.
 
 ## Step 8
-Plot :)
+Plot your predictions versus your test data :)
