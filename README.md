@@ -5,7 +5,7 @@ More practice training an LSTM model and using it to predict stock trends!
 So here is the basic process of training an LSTM model (and this can be appled to training EVERY other model).
 
 ## Step 1
-Split the data into training, testing, and valdatiion steps.
+Split the data into training, testing, and valdation steps.
 
 ## Step 2
 Define and scale the target and feature variables.
