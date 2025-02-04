@@ -24,7 +24,7 @@ Make predictions.
 Train the model.
 
 ## Step 7
-Evaluate the model's error and tweak the parameters to make the best model possible.
+Evaluate the model's error and tweak the parameters to increase model accuracy.
 
 ## Step 8
 Plot your predictions versus your test data :)
